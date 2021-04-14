@@ -1,3 +1,4 @@
+//Farzan Ali Faisal
 #include <stdio.h>
 
 int main(void)
